@@ -1,0 +1,8 @@
+POST /api/auth/register
+Descripción: Registro de nuevos usuarios
+
+POST /api/auth/login
+Descripción: Inicio de sesión
+
+GET /api/users
+Descripción: Obtiene el listado de usuarios
